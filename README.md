@@ -7,8 +7,8 @@ This project investigates the cross-domain generalization capabilities of Transf
 
 ## Team
 
-- İlke
-- Mustafa
+- İlke ÇERÇİ 
+- Mustafa ABLAK
 
 ## Supervisor
 
